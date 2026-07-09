@@ -62,7 +62,7 @@ sudo apt install nginx -y
 /var/www/html/
 ```
 
-- Verified the website using the EC2 Public IP.
+###Verified the website using the EC2 Public IP.
 <img width="960" height="600" alt="website_output" src="https://github.com/user-attachments/assets/f0063a64-67e4-4b21-8351-77232c0354d0" />
 
 
