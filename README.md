@@ -106,4 +106,5 @@ index.html
 **Amrit Raj**
 
 Galgotias University
+
 Electronics & Communication Engineering (AIML)
