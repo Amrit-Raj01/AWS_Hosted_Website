@@ -103,6 +103,6 @@ index.html
 
 ## Author
 
-Amrit Raj
+**Amrit Raj**
 Galgotias University
 Electronics & Communication Engineering (AIML)
