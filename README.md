@@ -27,9 +27,17 @@ The website contains my basic details such as Name, College, Branch, Email, and 
 - Allowed SSH (Port 22)
 - Allowed HTTP (Port 80)
 
+### EC2_Dashboard
+<img width="960" height="600" alt="EC2_dashboard" src="https://github.com/user-attachments/assets/ef95983a-2296-45b1-adbc-1f4729ee5e03" />
+
+
 ### 2. Connected to EC2
 
 Connected securely using SSH from Windows PowerShell.
+
+### SSH_login
+<img width="960" height="600" alt="SSH_login" src="https://github.com/user-attachments/assets/a683f72a-edc7-4a36-82f4-74738c0b3238" />
+
 
 ### 3. Updated the Server
 
@@ -42,6 +50,8 @@ sudo apt update
 ```bash
 sudo apt install nginx -y
 ```
+<img width="960" height="600" alt="nginx_installation" src="https://github.com/user-attachments/assets/3b678dbc-524d-4ae5-a024-0af1ba6eb5a9" />
+
 
 ### 5. Hosted the Website
 
@@ -53,6 +63,8 @@ sudo apt install nginx -y
 ```
 
 - Verified the website using the EC2 Public IP.
+<img width="960" height="600" alt="website_output" src="https://github.com/user-attachments/assets/f0063a64-67e4-4b21-8351-77232c0354d0" />
+
 
 
 
